@@ -1,0 +1,55 @@
+/**
+* Post count styling
+*/
+.pvc-post-count-wrapper {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pvc-container {
+    width: 620px;
+}
+
+.pcc-card {
+    background-color: #7d69c4;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 0 8px #777;
+}
+
+.pvc-section-head {
+    display: flex;
+    align-items: center;
+}
+
+.pvc-section-head span {
+    width: 45px;
+    font-size: 35px;
+    line-height: 30px;
+    color: #fff;
+    height: 100%;
+    text-align: left;
+}
+
+.pvc-section-title {
+    font-size: 28px;
+    line-height: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #fff;
+    font-weight: 700;
+}
+
+.pvc-total-count {
+    margin-bottom: 0;
+    font-size: 24px;
+    line-height: 1.7;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 44px;
+}
+
+.pvc-total-count span {
+    margin-left: 15px;
+}
